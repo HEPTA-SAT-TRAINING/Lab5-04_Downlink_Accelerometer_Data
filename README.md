@@ -13,4 +13,4 @@ Open in **Chrome or Edge**, then **Add Port** → **Connect** (38400 baud):
 
 ## Firmware
 
-Open `Lab5-04_downlink_accelerometer_data.ino` in the Arduino IDE and upload to your board. For library and submodule setup, see [src/README.md](src/README.md).
+Open `Lab5-04_Downlink_Accelerometer_Data.ino` in the Arduino IDE and upload to your board. For library and submodule setup, see [src/README.md](src/README.md).
